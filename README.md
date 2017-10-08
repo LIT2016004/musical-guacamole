@@ -1,1 +1,3 @@
 # musical-guacamole
+
+COUNTER STRIKE
